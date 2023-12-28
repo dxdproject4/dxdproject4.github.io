@@ -366,10 +366,12 @@ nav {
 /* 봄,여름,가을,겨울 */
 #season{
   display: flex;
-  margin-left: 192px;
+  margin-left: 193px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F1_click_text_1 {
@@ -399,11 +401,13 @@ nav {
 /* 엘리베이터 */
 #elevator{
   display: flex;
-  margin-left: -179px;
+  margin-left: -176px;
   margin-top: 200px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F7_click_text_2 {
@@ -446,11 +450,13 @@ nav {
 #thefirst{
   display: flex;
   rotate: 90deg;
-  margin-left: -253px;
+  margin-left: -247px;
   margin-top: 340px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F4_click_text_3 {
@@ -492,11 +498,13 @@ nav {
 /* 자동차 바퀴 */
 #wheels{
   display: flex;
-  margin-left: 22px;
+  margin-left: 20px;
   margin-top: 230px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F9_click_text_4 {
@@ -543,6 +551,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F2_click_text_6 {
@@ -591,6 +601,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .F2_click_text_7 {
