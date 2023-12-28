@@ -21,26 +21,26 @@ body, html {
 /* 이미지를 화면에 꽉 차게 표시하도록 설정 */
 
 
-#linkText {
-  cursor: pointer;
-
-  background-color: #3498db00;
-  color: #fff;
-  font-size: 20px;
-  border-radius: 5px;
-  z-index: 99;
-  text-decoration: none;
-  position: absolute;
-  top: 5025px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: 'Noto Sans KR', sans-serif;
-  letter-spacing: -1px;
-
-}
-
 
 #linkText a{
   text-decoration: none;
   color: #fff;
+}
+
+
+
+/* 버튼 스타일 */
+.my-button {
+  position: absolute;
+  top: 560%; /* 버튼을 수직 중앙 정렬하기 위해 */
+  left: 50%; /* 버튼을 수평 중앙 정렬하기 위해 */
+  transform: translate(-50%, -50%);
+  padding: 10px 20px;
+  background-color: #007bff00; /* 버튼 배경색 */
+  color: rgba(255, 255, 255, 0); /* 버튼 글자색 */
+  border: none;
+  width: 1000px;
+  height: 300px;
+  border-radius: 5px;
+  cursor: pointer;
 }
