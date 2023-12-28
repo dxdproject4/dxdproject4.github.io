@@ -837,6 +837,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O2_click_text_1 {
@@ -871,6 +873,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: px;
 }
 
 .O_click_text_2 {
@@ -913,11 +917,13 @@ nav {
 /* 대한민국 군대 */
 #korea_army{
   display: flex;
-  margin-left: -159px;
+  margin-left: -152px;
   margin-top: 448px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O10_click_text_2 {
@@ -960,11 +966,13 @@ nav {
 #human{
   display: flex;
   rotate: 90deg;
-  margin-left: -252px;
+  margin-left: -245px;
   margin-top: 247px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O6_click_text_3 {
@@ -1011,6 +1019,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O13_click_text_4 {
@@ -1053,11 +1063,13 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: 253px;
+  margin-left: 257px;
   margin-top: 314px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O14_click_text_5 {
@@ -1102,11 +1114,13 @@ nav {
   display: flex;
   rotate: 90deg;
   position: absolute;
-  margin-left: 296px;
+  margin-left: 300px;
   margin-top: 228px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O11_click_text_6 {
@@ -1153,6 +1167,8 @@ nav {
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O8_click_text_6 {
@@ -1197,11 +1213,13 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: -20px;
+  margin-left: -18px;
   margin-top: 315px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .O4_click_text_7 {
