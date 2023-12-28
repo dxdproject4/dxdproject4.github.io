@@ -1863,10 +1863,12 @@ nav {
 /* 만물 구성의 4원소설 */
 #seoulmountain{
   display: flex;
-  margin-top: 30px;
+  margin-top: 28px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L2_click_text_1 {
@@ -1896,10 +1898,13 @@ nav {
 /* 해병대와 4 */
 #rokmc{
   display: flex;
-  margin-left: 32px;
+  margin-left: 35px;
+  margin-top: -3px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L1_click_text_2 {
@@ -1942,11 +1947,13 @@ nav {
 #cleaning{
   display: flex;
   rotate: 90deg;
-  margin-left: -316px;
+  margin-left: -309px;
   margin-top: 140px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L3_click_text_3 {
@@ -1989,11 +1996,13 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: 300px;
+  margin-left: 303px;
   margin-top: 203px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L10_click_text_4 {
@@ -2038,10 +2047,12 @@ nav {
   display: flex;
   rotate: 55deg;
   margin-top: 370px;
-  margin-left: 105px;
+  margin-left: 115px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L11_click_text_2 {
@@ -2084,11 +2095,13 @@ nav {
 #day4{
   display: flex;
   position: absolute;
-  margin-top: 230px;
+  margin-top: 228px;
   margin-left: 195px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L8_click_text_6 {
@@ -2133,11 +2146,13 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: 20px;
+  margin-left: 23px;
   margin-top: 313px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .L5_click_text_7 {
