@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+
+
+}
+
+
+.image-container > img {
+  position: absolute;
+  width: 100%;
+
+}
+
+
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+/* 이미지를 화면에 꽉 차게 표시하도록 설정 */
+
+
+#linkText {
+  cursor: pointer;
+
+  background-color: #3498db00;
+  color: #fff;
+  font-size: 20px;
+  border-radius: 5px;
+  z-index: 99;
+  text-decoration: none;
+  position: absolute;
+  top: 5025px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+
+#linkText a{
+  text-decoration: none;
+  color: #fff;
+}
