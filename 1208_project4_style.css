@@ -596,7 +596,7 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: -19px;
+  margin-left: -17px;
   margin-top: 155px;
   font-size: 17px;
   font-weight: 400;
@@ -1420,6 +1420,8 @@ nav {
   font-weight: 400;
   height: 22px;
   rotate: 90deg;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U1_click_text_2 {
@@ -1448,12 +1450,14 @@ nav {
 /* 자연계의 4가지 힘 */
 #power4{
   display: flex;
-  margin-left: -21px;
+  margin-left: -17px;
   margin-top: 162px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
   rotate: 90deg;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U2_click_text_1 {
@@ -1482,12 +1486,14 @@ nav {
 /* 지구의 내부 */
 #mentle{
   display: flex;
-  margin-left: 166px;
+  margin-left: 168px;
   margin-top: 126px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
   rotate: 90deg;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U8_click_text_1 {
@@ -1519,11 +1525,13 @@ nav {
   display: flex;
   position: absolute;
   rotate: 90deg;
-  margin-left: 257px;
+  margin-left: 262px;
   margin-top: 300px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U10_click_text_5 {
@@ -1568,10 +1576,12 @@ nav {
   display: flex;
   position: absolute;
   margin-left: 50px;
-  margin-top: 479px;
+  margin-top: 477px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U6_click_text_6 {
@@ -1614,10 +1624,12 @@ nav {
   display: flex;
   position: absolute;
   margin-left: 192px;
-  margin-top: 448px;
+  margin-top: 445px;
   font-size: 17px;
   font-weight: 400;
   height: 22px;
+  font-family: 'Noto Sans KR', sans-serif;
+  letter-spacing: -1px;
 }
 
 .U4_click_text_7 {
